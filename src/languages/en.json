@@ -1,0 +1,8 @@
+{
+    "app": {
+        "name": "Rqeim"
+    },
+    "auth": {
+        "welcome": "Welcome to"
+    }
+}
